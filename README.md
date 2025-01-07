@@ -128,7 +128,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or suggestions, feel free to reach out!
 
-- **Project Maintainer**: [Your Name](https://github.com/yourusername)
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **Project Maintainer**: [obedgyamfi](https://github.com/obedgyamfi)
 
 
